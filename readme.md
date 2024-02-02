@@ -10,10 +10,10 @@ Epoch 5/5
 
 ## Results
 ### With Mask
-![With Mask](path/to/with_mask_image.jpg)
+![With Mask]("Results/With%20Mask.jpg")
 
 ### Without Mask
-![Without Mask](path/to/no_mask_image.jpg)
+![Without Mask](Results/Without%20Mask.jpg)
 
 ## Usage
 1. Clone this repository.
