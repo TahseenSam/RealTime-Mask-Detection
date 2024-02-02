@@ -1,0 +1,7 @@
+tensorflow
+cv2
+pathlib
+numpy
+matplotlib
+scikit-learn
+keras
