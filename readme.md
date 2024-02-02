@@ -10,7 +10,7 @@ Epoch 5/5
 
 ## Results
 ### With Mask
-![With Mask]("Results/With%20Mask.jpg")
+![With Mask](Results/With%20Mask.jpg)
 
 ### Without Mask
 ![Without Mask](Results/Without%20Mask.jpg)
